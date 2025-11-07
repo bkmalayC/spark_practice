@@ -1,0 +1,5 @@
+Spark makes big data processing easier.
+PySpark brings Spark to Python developers.
+This simple example counts the words in these lines.
+Spark is fast and scalable.
+Use this file as input to the example script.
